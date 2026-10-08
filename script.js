@@ -9,7 +9,7 @@ const EVENTO = {
   frase: 'Una noche para brindar, conversar y celebrar sin apuro.',          // TODO
   descripcion: 'Cumplo 32 y quiero celebrarlo con las personas que hacen que valga la pena. ' +
     'Habrá buena música, algo rico para picar y un brindis a medianoche.',   // TODO
-  vestimenta: 'Elegante sport. Tonos oscuros, si te animas.',                // TODO
+  vestimenta: 'Dresscode libre, como nuestros espíritus 🕊️',
   nota: 'Trae tu mejor ánimo. Si vienes en auto, hay estacionamiento en la calle.', // TODO
   firma: 'Con cariño, Emilio',            // TODO
   lugar: 'Casa de Emilio',                // TODO
